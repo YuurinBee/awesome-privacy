@@ -642,6 +642,23 @@ categories:
           an open specification and Simple pragmatic RESTful HTTP/JSON API it makes it easy
           to integrates with existing 3rd party IDs to authenticate and discover users, as
           well as to build apps on top of it.
+
+      - name: Vector Privacy
+        url: https://vectorapp.io
+        icon: https://i.ibb.co/BVv2GrK1/Vector-Avatar-512-updated.png
+        description: >-
+           Vector Messenger is a free, open-source, decentralized, and
+           censorship-resistant chat communication platform that doesn't require any
+           form of KYC, prevents metadata tracking, and will never allow for any form
+           of advertisements to depreciate the user experience. The application is
+           optimally designed to be lightweight, energy efficient, and requires minimum
+           computing resources allowing for Vector Messenger to be run on virtually any
+           device (<200mb RAM).
+          
+            github: https://github.com/VectorPrivacy
+            discordInvite: https://discord.gg/FT65Nh8pzZ
+            openSource: true
+            acceptsCrypto: true
       notableMentions:
         - name: Chat Secure
           url: https://chatsecure.org
